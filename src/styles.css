@@ -82,6 +82,7 @@ h2 {
 
 table {
   width: 100%;
+  margin-top: 10px;
 }
 
 table th, table td {
@@ -130,6 +131,7 @@ table tbody>tr:nth-child(odd) {
 
 .button:active, .button:focus {
   background: #777777;
+  outline: 0;
 }
 
 /* Przycisk w kolorze zielonym */
@@ -167,12 +169,15 @@ table tbody>tr:nth-child(odd) {
 /* Formularze */
 
 input {
+  display :block;
   height: 44px;
   border: 1px solid #cecece;
   font-size: 16px;
   color: #53555e;
   padding-left: 8px;
   padding-right: 8px;
+  margin-top: 2.5px;
+  margin-bottom: 7.5px;
 }
 
 input:active, input:focus {

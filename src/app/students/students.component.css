@@ -5,8 +5,3 @@
   label {
       margin-right: 10px;
   }
-
-  label[for="email"],
-  button {
-      margin-left: 10px;
-    }
