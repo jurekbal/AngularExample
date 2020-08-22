@@ -1,4 +1,19 @@
-# MyApp
+# What is it
+
+This is a forntend coding practice project on my SDA Java course (we have had also a frontend block there). 
+
+It uses placeholder REST API for user data aquisition and presents it in table.
+Components for adding and editing data are also implemented (it will not change any data in web database of course - placeholder server does not allow it of course)
+
+Project was created with Angular framework.  
+
+# Preview
+
+https://github.com/jurekbal/AngularExample
+
+
+
+## MyApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.5.
 
